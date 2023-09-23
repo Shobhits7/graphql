@@ -27,4 +27,3 @@ group :development do
   gem 'graphiql-rails'
   gem "web-console"
 end
-
